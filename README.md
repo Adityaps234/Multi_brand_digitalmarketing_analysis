@@ -15,3 +15,5 @@ This project analyzes 160,000+ records of marketing campaign data for three majo
 4. **Sales are very steady**: Daily sales stayed very consistent for almost a year without any crazy ups and downs. The sharp drop-off at the very end of the line chart isn't a crash in sales; it just means the data collection was cut off before that final month finished.
 ### Dashboard Preview
 <img width="1435" height="803" alt="marketing_insights" src="https://github.com/user-attachments/assets/fd5e7f52-dff4-4e79-a215-236bb0fe108c" />
+
+_**Note**: The SQL queries and Python scripts used for this analysis are attached in the repository files._
